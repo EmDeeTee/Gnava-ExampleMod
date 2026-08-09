@@ -19,8 +19,16 @@
             <groupId>Gnava</groupId>
             <artifactId>Gnava.ModApi</artifactId>
             <scope>system</scope>
-            <version>1.0.1</version>
-            <systemPath>${basedir}/../Gnava/Gnava.ModApi/target/Gnava.ModApi-1.0.1.jar</systemPath>
+            <version>1.0.0</version>
+            <systemPath>${basedir}/../Gnava/Gnava.ModApi/target/Gnava.ModApi-1.0.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>Gnava</groupId>
+            <artifactId>Gnava.GameApi</artifactId>
+            <scope>system</scope>
+            <version>1.0.0</version>
+            <systemPath>${basedir}/../Gnava/Gnava.GameApi/target/Gnava.GameApi-1.0.0.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
